@@ -15,8 +15,7 @@ An open-source, lightweight **Retrieval-Augmented Generation (RAG)** application
 * **Google Gemini Integration:** Powered by the cutting-edge `gemini-1.5-flash` model for high-speed inference and `embedding-001` for deep semantic vectorization.
 
 ##  Application Preview
-*(Add a screenshot of your Streamlit UI here to improve repository engagement)*
-![App Screenshot]([Insert-Link-To-Screenshot-Here])
+![App Screenshot](my .png)
 
 ##  Architecture & Tech Stack
 
