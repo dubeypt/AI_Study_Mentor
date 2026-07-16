@@ -31,5 +31,5 @@ Run this RAG pipeline on your local machine by following these steps:
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/](https://github.com/)[Your-Username]/[Your-Repo-Name].git
-cd [Your-Repo-Name]
+git clone https://github.com/dubeypt/AI_Study_Mentor.git
+cd [AI_Study_Mentor]
