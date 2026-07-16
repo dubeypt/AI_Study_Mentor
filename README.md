@@ -15,7 +15,7 @@ An open-source, lightweight **Retrieval-Augmented Generation (RAG)** application
 * **Google Gemini Integration:** Powered by the cutting-edge `gemini-1.5-flash` model for high-speed inference and `embedding-001` for deep semantic vectorization.
 
 ##  Application Preview
-![App Screenshot](my .png)
+![App Screenshot](<my .png>)
 
 ##  Architecture & Tech Stack
 
