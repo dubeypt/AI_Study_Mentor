@@ -10,7 +10,6 @@ An open-source, lightweight Retrieval-Augmented Generation (RAG) application tha
 
 ![App Preview](my%20.png)
 
-*(Tip: GitHub markdown handles spaces in filenames using `%20`, as shown above. For cleaner long-term maintenance, consider renaming `my .png` to something like `preview.png` and updating the link.)*
 
 ---
 
