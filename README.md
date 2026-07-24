@@ -104,12 +104,6 @@ AI_Study_Mentor/
 
 ---
 
-## License
-
-*[Add a license — MIT is common for open-source portfolio projects. Add a `LICENSE` file if not already present.]*
-
----
-
 ## Author
 
 **Aditya Dubey**
